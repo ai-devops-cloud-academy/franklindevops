@@ -1,0 +1,6 @@
+resource_group_name          = "demoytb"
+location                     = "canadacentral"
+container_registry_name      = "containerRegistryDemoYtb"
+kubernetes_cluster_name      = "aks-demo-ytb"
+log_analytics_workspace_name = "law-demo-ytb"
+application_insights_name    = "app-insight-demo-ytb"
